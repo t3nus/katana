@@ -5,6 +5,7 @@ python-magic
 pyzbar
 pillow
 clipboard
+colorama
 jinja2
 pyenchant
 pycrypto
